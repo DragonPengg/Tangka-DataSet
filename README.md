@@ -21,8 +21,4 @@ The Ritual Implement in Thangka（RITK） dataset contains a total of 3200 Thang
 
 The dataset is divided into two parts: 531 images and corresponding labels are randomly divided into a test set, and the remaining are used as the training set.
 
-
-
-[download url]: https://pan.baidu.com/s/1N-otvaZFyoPAHq4sUILWVw?pwd=5x4k
-
-Verification code：5x4k
+download url : https://pan.baidu.com/s/1N-otvaZFyoPAHq4sUILWVw?pwd=5x4k
